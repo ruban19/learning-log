@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+seaborn
+nltk
+keras
+gensim
+scipy==1.10.1
+tensorflow
+matplotlib
+Keras-Preprocessing
