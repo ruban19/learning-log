@@ -12,3 +12,5 @@ openai
 torch
 torchvision
 ipywidgets
+mlflow
+selenium
