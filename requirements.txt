@@ -15,3 +15,5 @@ ipywidgets
 mlflow
 selenium
 openpyxl
+wandb
+boto3
